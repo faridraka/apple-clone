@@ -561,6 +561,10 @@ footer {
     }
   }
 
+  .content{
+    justify-content: center;
+  }
+
   .iphone{
     height: 450px;
   }
@@ -569,7 +573,7 @@ footer {
     font-size: 36px;
   }
   .content p {
-    font-size: 20px;
+    font-size: 16px;
   }
   #hero-macbook-air {
   background-image: url(./assets/Image/macbook_air-mobile.jpg);
