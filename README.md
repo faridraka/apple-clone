@@ -11,7 +11,11 @@ This is a demo [Link](https://google.com) by netlify
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Banner App](./assets/Docs/Screenshot%202025-09-07%20203725.png "banner png")
+![Product Section](./assets/Docs/Screenshot%202025-09-07%20203752.png "product section")
+![Carousel Section](./assets/Docs/Screenshot%202025-09-07%20203859.png "Carousel Section")
+![Responsif Web In Mobile](./assets/Docs/Screenshot%202025-09-07%20204802.png "responsif in mobile")
+![Navbar view in mobile](./assets/Docs/Screenshot%202025-09-07%20204821.png "navbar view in mobile")
 
 
 ## Tech Stack
